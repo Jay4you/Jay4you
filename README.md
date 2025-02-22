@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hi there 👋 I'm Ugochukwu
 
-<!--
-**Jay4you/Jay4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Cybersecurity Researcher & Bug Bounty Hunter – Finding and fixing vulnerabilities
+🔹 Penetration Tester – Ethical hacking & security testing
+🔹 Software Engineer – Coding, automating, and securing systems
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Bug Bounty & Security Research – Testing web apps for vulnerabilities and improving security.
+📖 NigeriaCyberLawCompendium – A deep dive into Nigerian cybersecurity and data laws.
+💻 Building & Breaking Stuff – Exploring software security, automation, and ethical hacking.
+🎙️ Sharing Knowledge – Running Tech Task Simplified (TTS), a channel where I break down tech concepts.
+
+## 🌱 Currently Learning
+
+Advanced penetration testing techniques
+
+Cybersecurity law and compliance frameworks
+
+Cloud security and API security best practices
+
+
+## 👯 Looking to Collaborate On
+
+Open-source cybersecurity research projects
+
+Bug bounty reports & responsible disclosure programs
+
+Awareness initiatives on digital security & privacy
+
+
+## 💬 Ask Me About
+
+Ethical hacking & bug bounty hunting
+
+Penetration testing & vulnerability research
+
+Cybersecurity law & compliance
+
+
+## 🛠 Skills & Tools
+
+### 💻 Languages: 
+Python, Bash, C, JavaScript, SQL, HTML/CSS
+### 🔍 Security Tools: 
+Kali Linux, Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark
+### 🛠 Tech & Frameworks: 
+SIEM, API security, Networking, Ethical Hacking
+
+## ⚡ Fun Fact
+
+I enjoy breaking things (ethically) and then figuring out how to fix them!
+
+## 📫 Let's Connect!
+
+📧 Email: [ejahswill1@gmail.com]
+🔗 LinkedIn: [https://www.linkedin.com/in/jay4you]
