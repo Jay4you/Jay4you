@@ -2,7 +2,6 @@
 
 🔹 Cybersecurity Researcher & Bug Bounty Hunter – Finding and fixing vulnerabilities
 🔹 Penetration Tester – Ethical hacking & security testing
-🔹 Software Engineer – Coding, automating, and securing systems
 
 ## 🔭 What I'm Working On
 
